@@ -32,8 +32,6 @@
   <body>
 
     <div class="animated fadeIn">
-
-
     <div class="cover user text-center">
       <svg fill="#fff" height="148" viewBox="0 0 24 24" width="148" xmlns="http://www.w3.org/2000/svg" class="shad">
           <path d="M0 0h24v24H0z" fill="none"/>
