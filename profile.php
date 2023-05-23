@@ -55,14 +55,14 @@
                       <div class="col-lg-4">
                         <div class="quotes blg text-center">
                           <h3>First</h3>
-                            <p>You can complain directly with us you have been dealing with.  Complaints are often sorted out immediately this way.</p>
+                            <p>Submit offline complaints at the Student Section office in person.</p>
                         </div>
                       </div>
 
                       <div class="col-lg-4">
                         <div class="quotes blg text-center">
                           <h3>Second</h3>
-                            <p>If you don’t know who to contact, or you have a name but no telephone number, then call our enquiries team on 18XX XXX XXX</p>
+                            <p>For assistance, students may contact to Student Section office during office hours (12 PM to 4 PM, Monday to Friday) at +91-96825 46536.</p>
                         </div>
                       </div>
 

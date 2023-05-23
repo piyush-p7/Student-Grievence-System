@@ -91,7 +91,15 @@
                 </tr>
                 <tr>
                   <td class="text-left">Your Subject *</td>
-                  <td><input type="text" name = "subject" placeholder = "Subject"></td>
+                    <td>
+                      <select name="subject" onchange="toggleCustomSubject(this)">
+                        <option value="course_related">Course Related</option>
+                        <option value="infrastructure_related">Infrastructure Related</option>
+                        <option value="staff_related">Staff Related</option>
+                        <option value="stolen_item">Stolen Item</option>
+                        <option value="other">Other</option>
+                      </select>
+                    </td>
                 </tr>
                 <tr>
                   <td class="text-left">Your Complain *</td>
@@ -114,5 +122,17 @@
     <script src="files/js/jquery.js"></script>
     <script src="files/js/bootstrap.min.js"></script>
     <script src="files/js/script.js"></script>
+    <script>
+  function toggleCustomSubject(select) {
+    var customSubjectInput = document.getElementById("custom_subject");
+    if (select.value === "other") {
+      customSubjectInput.style.display = "block";
+      customSubjectInput.setAttribute("required", "required");
+    } else {
+      customSubjectInput.style.display = "none";
+      customSubjectInput.removeAttribute("required");
+    }
+  }
+  </script>
   </body>
 </html>

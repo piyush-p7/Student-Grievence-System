@@ -46,7 +46,7 @@
 
 
     <div class="cover user text-center">
-      <h1 class="text-center">VIT Grievance System</h1>
+      <h1 class="text-center">Student Grievance System</h1>
       <div>
         <img height=125px src="./files/img/VIT logo.png" alt="Cap">
       </div>
