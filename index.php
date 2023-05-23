@@ -48,12 +48,10 @@
     <div class="cover user text-center">
       <h1 class="text-center">VIT Grievance System</h1>
       <div>
-        <img height=60px src="./files/img/graduationCap.png" alt="Cap">
+        <img height=125px src="./files/img/VIT logo.png" alt="Cap">
       </div>
       <h2>STUDENT LOGIN</h2>
     </div>
-
-
 
       <div class="padd">
         <div class="col-lg-12 text-center">
