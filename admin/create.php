@@ -21,15 +21,15 @@
   <?php require 'nav.php'; ?>
 
   <div class="cover main">
-    <h1>Add Engineer</h1>
+    <h1>Add Teacher</h1>
   </div>
     <!--Users client-->
     <div class="div">
         <div class="col-lg-12">
           <div class="quotes">
-            <h2>Add Engineer</h2>
+            <h2>Add Teacher</h2>
             
-            <p>Note: You can Register an Engineer account.</p>
+            <p>Note: You can Register an Teacher account.</p>
           </div>
           <a class="button logout" href="../dummy-register.php"> Register</a>
         </div>

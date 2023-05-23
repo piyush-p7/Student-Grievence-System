@@ -65,7 +65,7 @@
                   Users <br> <p><?php echo $count_users;?></p>
               </div>
               <div class="track vio">
-                  Engineers <br> <p><?php echo $count_engi;?></p>
+                  Teachers <br> <p><?php echo $count_engi;?></p>
               </div>
               <div class="track red">
                   Complaints <br> <p><?php echo $count_cmp;?></p>

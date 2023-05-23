@@ -82,7 +82,7 @@
             </div>
 
             <div class="track vio">
-                Total Engineers <br> <p><?php echo $count_engi;?></p>
+                Total Teachers <br> <p><?php echo $count_engi;?></p>
             </div>
 
             <div class="track red">
@@ -120,7 +120,7 @@
              <div class="content">
                <div class="div_data">New User</div>
                <div class="div_data">New Message From</div>
-               <div class="div_data">New Engineer </div>
+               <div class="div_data">New Teacher </div>
              </div>
               <div class="div_data vio">
                     <span><?php echo $new_user; ?></span>

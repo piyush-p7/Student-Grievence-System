@@ -54,7 +54,7 @@
               $num_rows = mysql_num_rows($result);
             ?>
                 <div class='admin-data'>
-                  Registered Engineer
+                  Registered Teacher
                   <span class='button view' href=''><?php echo "$num_rows";?></a>
                 </div><br><br><br><br><br>
             <?php
